@@ -2,6 +2,11 @@
 
 An innovative hybrid quantum-classical prototype built for the Qiskit Hackathon. This project solves space traffic management and orbital routing challenges by leveraging **Quantum Optimization concepts, Quadratic Unconstrained Binary Optimization (QUBO), and the Quantum Approximate Optimization Algorithm (QAOA)**.
 
+## 👥 Team
+* **Satakshi Sharma**
+* **Sanika Purohit**
+* **Aaryan Powale**
+
 ## 🚀 Problem Statement
 
 Navigating spacecraft through congested orbital sectors requires finding optimal trajectories that minimize **fuel consumption** while avoiding high-risk **space debris hazard zones**. Traditional classical routing algorithms struggle with combinatorial explosion as grid sizes scale. This project demonstrates how variational quantum algorithms (QAOA) can be applied to handle complex spatial constraint optimization.
